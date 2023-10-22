@@ -1,5 +1,5 @@
 ## Working result
-[https://nmovchanskaya.github.io/ahj-homeworks-events-goblin/]
+https://nmovchanskaya.github.io/ahj-homeworks-events-goblin/
 
 ## Task
 1. Develop a 4x4 playing field and a character in the form of an img image (when loading the page, it must be programmatically generated and placed in a random position inside the playing field). Use the setInterval function to schedule the movement of an existing img object to another field (the algorithm is random movement, without moving to the same field).
